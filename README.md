@@ -17,7 +17,7 @@ Current source: https://github.com/FabioLolix/LinuxTimeline
 
 ### 参与贡献
 
-参见 [CONTRIBUTING](https://gitee.com/OkayPJ/LinuxTimeline-DWikiBranch/blob/master/CONTRIBUTING)
+参见 [CONTRIBUTING](https://gitee.com/OkayPJ/LinuxTimeline-DWiki/blob/master/CONTRIBUTING)
 
 ### 生成
 
