@@ -33,7 +33,7 @@ LinuxTimeline 是由原 Andreas Lundqvist 等人，现 Fabio Loli 维护的 Linu
 
 如果您想要生成您自己的 SVG 图像，请先确保您以经安装了 gnuclad。
 
-若要安装 gnuclad，可以到一下位置下载源码：
+若要安装 gnuclad，可以到以下位置下载源码：
 * https://launchpad.net/gnuclad
 * https://github.com/FabioLolix/gnuclad
 
