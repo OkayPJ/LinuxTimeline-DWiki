@@ -14,6 +14,7 @@ Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 原始项目：http://futurist.se/gldt/
 
 当前项目：https://github.com/FabioLolix/LinuxTimeline
+
 当前项目 Gitee 镜像：https://gitee.com/mirrors_FabioLolix/LinuxTimeline
 
 本分支：https://gitee.com/OkayPJ/LinuxTimeline-DWiki
